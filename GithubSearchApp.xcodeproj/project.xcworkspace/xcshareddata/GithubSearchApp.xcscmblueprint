@@ -1,0 +1,29 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "14686FE4CDDF088E94D9C756AD01FD0209362E45" : 0,
+    "8AB2A2A3A2B872E7F6AE1CDCF344CC0A4D482FAE" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "3C2A290C-32F1-47D0-A5DF-01EC6423CE56",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "14686FE4CDDF088E94D9C756AD01FD0209362E45" : "IOS%20Projects\/polibis-ios\/",
+    "8AB2A2A3A2B872E7F6AE1CDCF344CC0A4D482FAE" : "IOS%20Projects\/Swift-Keychain-Sample\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "GithubSearchApp",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "GithubSearchApp\/GithubSearchApp.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "bitbucket.org:kurtulusahmet\/polibis-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "14686FE4CDDF088E94D9C756AD01FD0209362E45"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/kurtulusahmet\/Swift-Keychain-Sample.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8AB2A2A3A2B872E7F6AE1CDCF344CC0A4D482FAE"
+    }
+  ]
+}
